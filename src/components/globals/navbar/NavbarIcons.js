@@ -17,7 +17,7 @@ class NavbarIcons extends React.Component {
         path: "https://twitter.com",
       },
       {
-        id: 0,
+        id: 2,
         icon: <FaInstagram className="icon instagram-icon" />,
         path: "https://instagram.com",
       },
